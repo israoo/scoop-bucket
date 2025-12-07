@@ -1,0 +1,31 @@
+# Scoop bucket specific
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+Desktop.ini
+ehthumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+
+# Test files
+test/
+*.test.ps1
+
+# Temporary files
+*.tmp
+*.bak
+*.log
