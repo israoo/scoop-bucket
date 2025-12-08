@@ -6,14 +6,14 @@
             "bin": [
                 "terrax.exe"
             ],
-            "hash": "2afdc1972ad192a8849af64971ab5bc97581d2003424817ceceb815bbdb5a34f"
+            "hash": "a06210a737435a393db5b4100d2c3b7018b7c1016fd9d9d9ce10208d974faf64"
         },
         "arm64": {
             "url": "https://github.com/israoo/terrax/releases/download/v0.1.0/terrax_0.1.0_Windows_arm64.zip",
             "bin": [
                 "terrax.exe"
             ],
-            "hash": "ccc772f54c2a3f941bb8ecba744fcac0ec2550336ccb15329e7746132517c982"
+            "hash": "51becbc5ac1806efc38fd7cc9c84920f014e8854ec26816a018a3d7ed4ee3e1e"
         }
     },
     "homepage": "https://github.com/israoo/terrax",
