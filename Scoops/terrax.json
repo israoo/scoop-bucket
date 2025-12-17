@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/israoo/terrax/releases/download/v0.1.1/terrax_0.1.1_Windows_x86_64.zip",
+            "url": "https://github.com/israoo/terrax/releases/download/v0.2.0/terrax_0.2.0_Windows_x86_64.zip",
             "bin": [
                 "terrax.exe"
             ],
-            "hash": "cc8128d60b93c1ee53bc2b628bcdb66b1b2411f23b390d63ec30e75e5df676f1"
+            "hash": "0d6020f8df08e953d933496b0e388e1dc1c94073f85c7ffabe8dbe2dedd0abfc"
         },
         "arm64": {
-            "url": "https://github.com/israoo/terrax/releases/download/v0.1.1/terrax_0.1.1_Windows_arm64.zip",
+            "url": "https://github.com/israoo/terrax/releases/download/v0.2.0/terrax_0.2.0_Windows_arm64.zip",
             "bin": [
                 "terrax.exe"
             ],
-            "hash": "0d4d41fe755826922432f1af59450f63aa4d0647a12f686253aee5b7481be244"
+            "hash": "4cfc74bca9f358d32eb1314583e974965cecf992c7f9ab98a672fa3b2126f5df"
         }
     },
     "homepage": "https://github.com/israoo/terrax",
